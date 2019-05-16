@@ -1,0 +1,10 @@
+连续特征（7个）：
+ 'pre_app_merged_NAME_TYPE_SUITE_nan',
+ 'pre_app_merged_NAME_GOODS_CATEGORY_House Construction',
+ 'pre_app_merged_PRODUCT_COMBINATION_nan',
+ 'pre_app_merged_installments_NUM_INSTALMENT_NUMBER_min_min',
+ 'pre_app_merged_cash_NAME_CONTRACT_STATUS_XNA_min',
+ 'pre_app_merged_cash_SK_DPD_min_min',
+ 'pre_app_merged_cash_SK_DPD_DEF_min_min'
+ 
+ 离散特征（0个）
